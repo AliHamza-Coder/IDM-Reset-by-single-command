@@ -1,1 +1,4 @@
 # IDM-Reset-by-single-command
+
+
+reg delete "HKEY_CURRENT_USER\SOFTWARE\Classes\WOW6432Node\CLSID\{07999AC3-058B-40BF-984F-69EB1E554CA7}" /f
